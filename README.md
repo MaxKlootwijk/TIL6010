@@ -9,7 +9,7 @@ The course is a hands-on course for students to learn the fundamentals of coding
 We want to showcase some of the student projects here:
 
 - 2021 Google Mobility Data
-    - [Roman Schuring](docs/2021%20Roman%20Schuring.html)
-    - [Govert van Loon](docs/2021%20G.P.%20van%20Loon.html)
-    - [Rohit Ramlakhan](docs/2021%20Rohit%20Ramlakhan.html)
+    - [Roman Schuring](Top%203/2021%20Roman%20Schuring.html)
+    - [Govert van Loon](Top%203/2021%20Govert%20van%20Loon.html)
+    - [Rohit Ramlakhan](Top%203/2021%20Rohit%20Ramlakhan.html)
 - 2022
