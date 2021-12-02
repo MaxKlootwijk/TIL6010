@@ -8,4 +8,4 @@ We want to showcase some of the student projects here:
 
 ## 2021 Google Mobility Data Assignment
 
-
+[a relative link](docs/2021%20G.P.%20van%20Loon.html)
